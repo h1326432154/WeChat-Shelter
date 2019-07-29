@@ -4,7 +4,7 @@ body {
 
 .panel.give_me, .search_bar > input, .chat_item.active {
   background: none !important;
-  color: #393939 !important;
+  color: #ffffff !important;
 }
 #search_bar {
   padding: 8px 18px !important;
@@ -47,7 +47,7 @@ body {
 }
 
 .nickname, .nickname_text, .chat_item.active .ext, .chat_item.active .info .msg {
-  color: #393939 !important;
+  color: #ffffff !important;
 }
 .recommendation .contact_item .nickname {
   color: white !important;
